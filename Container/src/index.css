@@ -1,0 +1,23 @@
+body {
+  font-family:Helvetica, sans-serif;
+}
+
+.test {
+  border:2px dashed red;
+  padding:40px;
+  border-radius: 10px;
+  margin:10px;
+}
+
+.page-container {
+  max-width:1400px;
+  margin:auto;
+}
+
+.page-layout {
+  display:flex;
+}
+
+.page {
+  flex:1;
+}
